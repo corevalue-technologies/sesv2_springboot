@@ -1,0 +1,13 @@
+/Users/pranci/Documents/cvt_git/sesv2_springboot/src/main/java/sesv2/service/impl/SendMailService.java
+/Users/pranci/Documents/cvt_git/sesv2_springboot/src/main/java/sesv2/service/IService.java
+/Users/pranci/Documents/cvt_git/sesv2_springboot/src/main/java/sesv2/configuration/AmazonSesV2Configuration.java
+/Users/pranci/Documents/cvt_git/sesv2_springboot/src/main/java/sesv2/controller/Controller.java
+/Users/pranci/Documents/cvt_git/sesv2_springboot/src/main/java/sesv2/service/MailSenderService.java
+/Users/pranci/Documents/cvt_git/sesv2_springboot/src/main/java/sesv2/exception/GenericServiceException.java
+/Users/pranci/Documents/cvt_git/sesv2_springboot/src/main/java/sesv2/exception/ExceptionCode.java
+/Users/pranci/Documents/cvt_git/sesv2_springboot/src/main/java/sesv2/entity/dto/Recipient.java
+/Users/pranci/Documents/cvt_git/sesv2_springboot/src/main/java/sesv2/common/EmailHelper.java
+/Users/pranci/Documents/cvt_git/sesv2_springboot/src/main/java/sesv2/Application.java
+/Users/pranci/Documents/cvt_git/sesv2_springboot/src/main/java/sesv2/service/impl/ServiceImpl.java
+/Users/pranci/Documents/cvt_git/sesv2_springboot/src/main/java/sesv2/entity/dto/EmailTemplate.java
+/Users/pranci/Documents/cvt_git/sesv2_springboot/src/main/java/sesv2/entity/dto/EmailRequest.java
